@@ -4,13 +4,19 @@ A gamified mental-wellness app. You raise a virtual bird, complete small daily w
 
 Built as a team project at ISCTE. **The source code is private** (team project); this repo documents what it does and how it works.
 
-![Riser demo](media/riser-gif.gif)
+<p align="center">
+  <img src="media/riser-gif.gif" alt="Riser demo" width="320">
+</p>
 
-**Demo (2:30)**
+<h3 align="center">Demo (2:30)</h3>
 
-https://github.com/user-attachments/assets/9a3f6c5f-0457-4e09-90e9-90d4f88ea9df
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/9a3f6c5f-0457-4e09-90e9-90d4f88ea9df" controls width="320"></video>
+</p>
 
-**[Try the Android app](#)** · Demo account: `demo@riser.app` / `demo1234`
+<p align="center">
+  <b><a href="#">Try the Android app</a></b> · Demo account: <code>demo@riser.app</code> / <code>demo1234</code>
+</p>
 
 ---
 
