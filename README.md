@@ -11,7 +11,7 @@ Built as a team project at ISCTE. **The source code is private** (team project);
 <h3 align="center">Demo (2:30)</h3>
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/9a3f6c5f-0457-4e09-90e9-90d4f88ea9df" controls width="320"></video>
+  <video src="https://github.com/user-attachments/assets/e3071281-09be-42ae-a5b9-2e089ca21ce3" controls width="320"></video>
 </p>
 
 <p align="center">
