@@ -6,7 +6,11 @@ Built as a team project at ISCTE. **The source code is private** (team project);
 
 ![Riser demo](media/riser-gif.gif)
 
-**[Watch the 2:30 demo](#)** · **[Try the Android app](#)** · Demo account: `demo@riser.app` / `demo1234`
+**Demo (2:30)**
+
+https://github.com/user-attachments/assets/9a3f6c5f-0457-4e09-90e9-90d4f88ea9df
+
+**[Try the Android app](#)** · Demo account: `demo@riser.app` / `demo1234`
 
 ---
 
