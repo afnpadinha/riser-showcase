@@ -10,9 +10,7 @@ Built as a team project at ISCTE. **The source code is private** (team project);
 
 <h3 align="center">Demo (2:30)</h3>
 
-<p align="center">
   https://github.com/user-attachments/assets/e3071281-09be-42ae-a5b9-2e089ca21ce3
-</p>
 
 <p align="center">
   <b><a href="#">Try the Android app</a></b> · Demo account: <code>demo@riser.app</code> / <code>demo1234</code>
